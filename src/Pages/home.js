@@ -12,6 +12,7 @@ import Slide from "@mui/material/Slide";
 const data = [
   {
     question: `Which among the following example is a right combination?`,
+
     date: "15/12/2021",
     time: "12:30 PM",
     answer: `Marble : Metamorphic Rock`,

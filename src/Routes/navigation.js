@@ -7,7 +7,7 @@ function Navigation(props) {
     <div>
       <Router>
         <Routes>
-          <Route exact path="/" element={<Home />}></Route>
+          <Route path="/" element={<Home />}></Route>
         </Routes>
       </Router>
     </div>
